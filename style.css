@@ -1,0 +1,249 @@
+
+*
+{
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+    
+}
+.my-nav
+{
+    background-color: black;
+}
+.my-container-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.pizza-restaurant
+{
+    color: white;
+    font-family: Ruda, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 20px;;
+    margin-left: 25px;
+}
+
+.nav-link
+{
+    font-weight: 400;
+    font-family: Ruda, Arial, Helvetica, sans-serif;
+}
+
+.my-links
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 25px;
+    transform: scale(1.2);
+}
+
+.insta
+{
+    margin-right: 15px;
+}
+
+.fb
+{
+    margin-left: 15px;
+}
+
+.whatsapp
+{
+    margin-left: 30px;
+}
+
+.my-header
+{
+     width: 100%;
+     background-color: black;
+}
+.pizza-head
+{
+    width: 100%;
+    position: relative;
+    opacity: 0.7;
+    background-color: black;
+}
+.top-text
+{
+    
+}
+.head-h1
+{
+    color: white;
+    position: absolute;
+    font-family: Quattrocento;
+    top: 200px;
+    margin-left: 100px;
+    background-color: transparent;
+    white-space: pre;
+    letter-spacing: 5px;
+    font-size: 130px;
+}
+.head-p
+{
+    color: white;
+    position: absolute;
+    background-color: transparent;
+    white-space: pre;
+    font-family: Ruda;
+    letter-spacing: 3px;
+    font-weight: 100;
+    font-size: 50px;
+    top: 640px;
+    margin-left: 100px;
+}
+
+.line-1
+{
+    position: absolute;
+    top: 560px;
+    left: 40px;
+    background-color: transparent;
+    margin-left: 50px;
+}
+
+.about-us-info
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.para-text
+{
+    color: white;
+    font-family: Ruda;
+    white-space: normal;
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-right: 70px;
+    margin-left: 60px;
+}
+
+.about-us-head
+{
+    text-align: center;
+    padding-top: 60px;
+    font-family: Quattrocento;
+    color: white;
+    font-weight: 400;
+    font-size: 60px;
+}
+
+.line-3
+{
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    margin-bottom: 60px;
+}
+ 
+.menu-head
+{
+    text-align: center;
+    padding-top: 120px;
+    font-family: Quattrocento;
+    color: white;
+    font-weight: 400;
+    font-size: 60px;
+}
+
+.line-4
+{
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+}
+
+.line-5
+{
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    margin-bottom: 60px;
+}
+
+.menu-text
+{
+    color: white;
+    font-family: Ruda;
+    white-space: normal;
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-right: 70px;
+    margin-left: 60px;
+}
+
+.item-list
+{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list-1
+{
+    display: flex;
+   
+    justify-content: space-between;
+    margin-left: 55px;
+
+}
+
+.list-2
+{
+    display: flex;
+    margin-left: 55px;
+    justify-content: space-between;
+}
+
+.item-img
+{
+    width: 273.08px;
+    height: 200px;
+}
+
+.list-text
+{
+    margin-left: 10px;
+
+}
+
+.list-text>h4
+{
+    color: #F2C94C;
+    font-family: Ruda;
+    letter-spacing: 3px;
+    font-weight: 400;
+}
+
+.list-text>p
+{
+    color: white;
+    font-family: Ruda;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.menu-items
+{
+    margin-top: 110px;
+}
