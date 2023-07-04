@@ -532,14 +532,7 @@
     }
 
 
-    .gallary-item {
-        display: flex;
-
-
-        overflow-x: auto;
-
-
-    }
+    
 
     .gallary-container {
         width: 100%;
