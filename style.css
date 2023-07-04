@@ -77,45 +77,48 @@
     opacity: 0.7;
     background-color: black;
 }
-.top-text
-{
-    
-}
+
 .head-h1
 {
     color: white;
-    position: absolute;
+    
     font-family: Quattrocento;
-    top: 200px;
+    
     margin-left: 100px;
     background-color: transparent;
     white-space: pre;
     letter-spacing: 5px;
-    font-size: 130px;
+    font-size: 6vw;
 }
 .head-p
 {
     color: white;
-    position: absolute;
+    
     background-color: transparent;
     white-space: pre;
     font-family: Ruda;
     letter-spacing: 3px;
     font-weight: 100;
-    font-size: 50px;
-    top: 640px;
+    font-size: 3vw;
+    
     margin-left: 100px;
 }
 
 .line-1
 {
-    position: absolute;
-    top: 560px;
-    left: 40px;
+    
     background-color: transparent;
-    margin-left: 50px;
+    margin-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
-
+.top-text
+{
+   position: absolute;
+   top: 9vw;
+   background-color: transparent;
+   width: 100%;
+}
 .about-us-info
 {
     display: flex;
@@ -132,7 +135,7 @@
     letter-spacing: 3px;
     font-weight: 100;
     margin-right: 70px;
-    margin-left: 60px;
+    
 }
 
 .about-us-head
@@ -186,7 +189,7 @@
     font-size: 30px;
     letter-spacing: 3px;
     font-weight: 100;
-    margin-right: 70px;
+    
     margin-left: 60px;
 }
 
