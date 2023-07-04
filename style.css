@@ -660,3 +660,48 @@
         padding-bottom: 50px;
     }
 }
+
+@media (max-width: 1020px)
+{
+    .my-nav-1 {
+        background-color: black;
+    }
+
+    .my-container-1 {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .pizza-restaurant {
+        color: white;
+        font-family: Ruda, Arial, Helvetica, sans-serif;
+        font-weight: 700;
+        letter-spacing: 2px;
+        font-size: 20px;
+        ;
+        margin-left: 25px;
+    }
+
+    .nav-link {
+        font-weight: 400;
+        font-family: Ruda, Arial, Helvetica, sans-serif;
+    }
+
+    .my-links {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .icons {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-right: 25px;
+        transform: scale(1.2);
+    }
+
+}
