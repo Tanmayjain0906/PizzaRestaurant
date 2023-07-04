@@ -1,48 +1,44 @@
-
-*
-{
+* {
     background-color: black;
     padding: 0px;
     margin: 0px;
     scroll-behavior: smooth;
-    
+
 }
-.my-nav
-{
+
+.my-nav {
     background-color: black;
 }
-.my-container-1{
+
+.my-container-1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
 }
 
-.pizza-restaurant
-{
+.pizza-restaurant {
     color: white;
     font-family: Ruda, Arial, Helvetica, sans-serif;
     font-weight: 700;
     letter-spacing: 2px;
-    font-size: 20px;;
+    font-size: 20px;
+    ;
     margin-left: 25px;
 }
 
-.nav-link
-{
+.nav-link {
     font-weight: 400;
     font-family: Ruda, Arial, Helvetica, sans-serif;
 }
 
-.my-links
-{
+.my-links {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.icons
-{
+.icons {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -50,84 +46,77 @@
     transform: scale(1.2);
 }
 
-.insta
-{
+.insta {
     margin-right: 15px;
 }
 
-.fb
-{
+.fb {
     margin-left: 15px;
 }
 
-.whatsapp
-{
+.whatsapp {
     margin-left: 30px;
 }
 
-.my-header
-{
-     width: 100%;
-     background-color: black;
+.my-header {
+    width: 100%;
+    background-color: black;
 }
-.pizza-head
-{
+
+.pizza-head {
     width: 100%;
     position: relative;
     opacity: 0.7;
     background-color: black;
 }
 
-.head-h1
-{
+.head-h1 {
     color: white;
-    
+
     font-family: Quattrocento;
-    
+
     margin-left: 100px;
     background-color: transparent;
     white-space: pre;
     letter-spacing: 5px;
     font-size: 6vw;
 }
-.head-p
-{
+
+.head-p {
     color: white;
-    
+
     background-color: transparent;
     white-space: pre;
     font-family: Ruda;
     letter-spacing: 3px;
     font-weight: 100;
     font-size: 2.5vw;
-    
+
     margin-left: 100px;
 }
 
-.line-1
-{
-    
+.line-1 {
+
     background-color: transparent;
     margin-left: 90px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.top-text
-{
-   position: absolute;
-   top: 9vw;
-   background-color: transparent;
-   width: 100%;
+
+.top-text {
+    position: absolute;
+    top: 9vw;
+    background-color: transparent;
+    width: 100%;
 }
-.about-us-info
-{
+
+.about-us-info {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.para-text
-{
+.para-text {
     color: white;
     font-family: Ruda;
     white-space: normal;
@@ -135,11 +124,10 @@
     letter-spacing: 3px;
     font-weight: 100;
     margin-right: 70px;
-    
+
 }
 
-.about-us-head
-{
+.about-us-head {
     text-align: center;
     padding-top: 60px;
     font-family: Quattrocento;
@@ -148,16 +136,14 @@
     font-size: 60px;
 }
 
-.line-3
-{
+.line-3 {
     display: flex;
     justify-content: center;
     margin-inline: auto;
     margin-bottom: 60px;
 }
- 
-.menu-head
-{
+
+.menu-head {
     text-align: center;
     padding-top: 120px;
     font-family: Quattrocento;
@@ -166,80 +152,67 @@
     font-size: 60px;
 }
 
-.line-4
-{
+.line-4 {
     display: flex;
     justify-content: center;
     margin-inline: auto;
 }
 
-.line-5
-{
+.line-5 {
     display: flex;
     justify-content: center;
     margin-inline: auto;
     margin-bottom: 60px;
 }
 
-.menu-text
-{
+.menu-text {
     color: white;
     font-family: Ruda;
     white-space: normal;
     font-size: 30px;
     letter-spacing: 3px;
     font-weight: 100;
-    
-    
-    
 }
 
-.item-list
-{
+.item-list {
     display: flex;
     margin-top: 20px;
     align-items: center;
     justify-content: space-between;
 }
 
-.list-1
-{
+.list-1 {
     display: flex;
-   
+
     justify-content: space-between;
-    
+
 
 }
 
-.list-2
-{
+.list-2 {
     display: flex;
     margin-left: 55px;
     justify-content: space-between;
 }
 
-.item-img
-{
+.item-img {
     width: 273.08px;
     height: 200px;
 }
 
-.list-text
-{
+.list-text {
     margin-left: 10px;
 
 }
 
-.list-text>h4
-{
+.list-text>h4 {
     color: #F2C94C;
     font-family: Ruda;
     letter-spacing: 3px;
     font-weight: 400;
 }
 
-.list-text>p
-{
+.list-text>p {
     color: white;
     font-family: Ruda;
     letter-spacing: 3px;
@@ -247,23 +220,58 @@
     font-size: 20px;
 }
 
-.menu-items
-{
+.menu-items {
     margin-top: 110px;
 }
 
 .carousel .item {
     height: 638px;
-  }
-  
-  .item img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      min-height: 300px;
-  }
+}
 
-.my-crousel
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.my-crousel {
+    padding-inline: 130px;
+}
+
+.find-us-head {
+    text-align: center;
+    padding-top: 60px;
+    font-family: Quattrocento;
+    color: white;
+    font-weight: 400;
+    font-size: 60px;
+}
+
+.info-text {
+    color: white;
+    font-family: Ruda;
+    white-space: normal;
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+.location
 {
-    padding-inline: 600px;
+    display: flex;
+    align-items: center;
+}
+.info
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.call-us
+{
+    display: flex;
+    
+    align-items: center;
 }
