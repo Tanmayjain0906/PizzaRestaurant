@@ -318,12 +318,15 @@
 
     .gallary-container {
 
+        
         position: relative;
-
-        width: 33vw;
+        
+        left: 0px;
         display: grid;
         grid-template-rows: 218px 193px 200px;
         grid-template-columns: 799px 293px 300px;
+        justify-content: center;
+        margin-inline: auto;
     }
 
     .gallary-img-1 {
@@ -655,14 +658,13 @@
 
         display: flex;
         justify-content: space-between;
-        
+
         padding-top: 150px;
         padding-bottom: 50px;
     }
 }
 
-@media (max-width: 1020px)
-{
+@media (max-width: 1020px) {
     .my-nav-1 {
         background-color: black;
     }
